@@ -1,0 +1,170 @@
+" Timestamp","Timestamp formattato","Nome PC","Sistema operativo","Utente","Messaggio"
+1715557403523,"13-05-2024 01:43:23","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Scacchi cominciata"
+1715557404698,"13-05-2024 01:43:24","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","BIANCO si ritira. NERO vince la partita di Scacchi"
+1715557405472,"13-05-2024 01:43:25","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","BIANCO si ritira. NERO vince la partita di Scacchi"
+1715557408047,"13-05-2024 01:43:28","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715557552219,"13-05-2024 01:45:52","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","ROSSO non ha piu' pedine.  NERO vince la partita di Dama"
+1715559756473,"13-05-2024 02:22:36","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Scacchi cominciata"
+1715560293226,"13-05-2024 02:31:33","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Scacchi cominciata"
+1715560408730,"13-05-2024 02:33:28","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Scacchi cominciata"
+1715560508363,"13-05-2024 02:35:08","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Scacchi cominciata"
+1715560801778,"13-05-2024 02:40:01","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Scacchi cominciata"
+1715562202818,"13-05-2024 03:03:22","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715562205195,"13-05-2024 03:03:25","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Scacchi cominciata"
+1715562284085,"13-05-2024 03:04:44","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","NERO si ritira. BIANCO vince la partita di Scacchi"
+1715622968828,"13-05-2024 19:56:08","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715623107704,"13-05-2024 19:58:27","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715623135455,"13-05-2024 19:58:55","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715623517878,"13-05-2024 20:05:17","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715623659920,"13-05-2024 20:07:39","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715624120820,"13-05-2024 20:15:20","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715625161323,"13-05-2024 20:32:41","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715625674282,"13-05-2024 20:41:14","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715626106997,"13-05-2024 20:48:27","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715626226678,"13-05-2024 20:50:26","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715626228861,"13-05-2024 20:50:28","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Scacchi cominciata"
+1715628902599,"13-05-2024 21:35:02","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Scacchi cominciata"
+1715629544530,"13-05-2024 21:45:44","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715629592243,"13-05-2024 21:46:32","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Scacchi cominciata"
+1715632396470,"13-05-2024 22:33:16","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Scacchi cominciata"
+1715632450326,"13-05-2024 22:34:10","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715632818873,"13-05-2024 22:40:18","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715632847844,"13-05-2024 22:40:47","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715632882557,"13-05-2024 22:41:22","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715632908937,"13-05-2024 22:41:48","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715632929825,"13-05-2024 22:42:09","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715632952986,"13-05-2024 22:42:32","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715632959244,"13-05-2024 22:42:39","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Scacchi cominciata"
+1715633684529,"13-05-2024 22:54:44","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715633705075,"13-05-2024 22:55:05","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715634088985,"13-05-2024 23:01:28","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715634113296,"13-05-2024 23:01:53","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715634131338,"13-05-2024 23:02:11","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715634300880,"13-05-2024 23:05:00","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715634331061,"13-05-2024 23:05:31","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715634386260,"13-05-2024 23:06:26","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715634415629,"13-05-2024 23:06:55","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715634435902,"13-05-2024 23:07:15","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715634458536,"13-05-2024 23:07:38","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715634478717,"13-05-2024 23:07:58","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715634510869,"13-05-2024 23:08:30","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715634533698,"13-05-2024 23:08:53","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715634554591,"13-05-2024 23:09:14","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715634563702,"13-05-2024 23:09:23","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Scacchi cominciata"
+1715634635302,"13-05-2024 23:10:35","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715634706764,"13-05-2024 23:11:46","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715634765325,"13-05-2024 23:12:45","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715634823041,"13-05-2024 23:13:43","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715634840152,"13-05-2024 23:14:00","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715634866545,"13-05-2024 23:14:26","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715634925816,"13-05-2024 23:15:25","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715634957858,"13-05-2024 23:15:57","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715634981593,"13-05-2024 23:16:21","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715635016891,"13-05-2024 23:16:56","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715635032932,"13-05-2024 23:17:12","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715635054181,"13-05-2024 23:17:34","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715635091264,"13-05-2024 23:18:11","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715635153317,"13-05-2024 23:19:13","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715635230453,"13-05-2024 23:20:30","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715635323368,"13-05-2024 23:22:03","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715635341759,"13-05-2024 23:22:21","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715635364631,"13-05-2024 23:22:44","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715635443152,"13-05-2024 23:24:03","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715635465218,"13-05-2024 23:24:25","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","NERO si ritira. ROSSO vince la partita di Dama"
+1715635465795,"13-05-2024 23:24:25","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715635515495,"13-05-2024 23:25:15","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715635524255,"13-05-2024 23:25:24","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","ROSSO si ritira. NERO vince la partita di Dama"
+1715635525010,"13-05-2024 23:25:25","LAPTOP-B6BG59IT","Windows 10 10.0","rubyf","Partita a Dama cominciata"
+1715635829024,13-05-2024 23:30:29,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715635993098,13-05-2024 23:33:13,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715636068912,13-05-2024 23:34:28,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715636285476,13-05-2024 23:38:05,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715636319910,13-05-2024 23:38:39,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715636339607,13-05-2024 23:38:59,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715636387183,13-05-2024 23:39:47,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715636471477,13-05-2024 23:41:11,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715636495356,13-05-2024 23:41:35,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715636517864,13-05-2024 23:41:57,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715636541940,13-05-2024 23:42:21,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715636576120,13-05-2024 23:42:56,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715636603562,13-05-2024 23:43:23,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715636689705,13-05-2024 23:44:49,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715636721574,13-05-2024 23:45:21,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Scacchi cominciata
+1715636774002,13-05-2024 23:46:14,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715636797268,13-05-2024 23:46:37,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Scacchi cominciata
+1715640658412,14-05-2024 00:50:58,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715640694312,14-05-2024 00:51:34,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715640702980,14-05-2024 00:51:42,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Scacchi cominciata
+1715640740723,14-05-2024 00:52:20,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715640771928,14-05-2024 00:52:51,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715640789784,14-05-2024 00:53:09,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715640813153,14-05-2024 00:53:33,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715640836415,14-05-2024 00:53:56,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715640862441,14-05-2024 00:54:22,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715640901141,14-05-2024 00:55:01,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715640915249,14-05-2024 00:55:15,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715640941592,14-05-2024 00:55:41,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715641331808,14-05-2024 01:02:11,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715641409242,14-05-2024 01:03:29,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715641413184,14-05-2024 01:03:33,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,ROSSO si ritira. NERO vince la partita di Dama
+1715641466978,14-05-2024 01:04:26,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715641656182,14-05-2024 01:07:36,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715641665885,14-05-2024 01:07:45,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,ROSSO si ritira. NERO vince la partita di Dama
+1715641690821,14-05-2024 01:08:10,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715641901133,14-05-2024 01:11:41,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715642043977,14-05-2024 01:14:03,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715642076318,14-05-2024 01:14:36,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715642255003,14-05-2024 01:17:35,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715642292017,14-05-2024 01:18:12,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715642319788,14-05-2024 01:18:39,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715642341851,14-05-2024 01:19:01,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715642377890,14-05-2024 01:19:37,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715642764714,14-05-2024 01:26:04,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715642794382,14-05-2024 01:26:34,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715642846201,14-05-2024 01:27:26,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715642884021,14-05-2024 01:28:04,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715642912773,14-05-2024 01:28:32,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715642946210,14-05-2024 01:29:06,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715642975683,14-05-2024 01:29:35,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715642992811,14-05-2024 01:29:52,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,ROSSO si ritira. NERO vince la partita di Dama
+1715643020953,14-05-2024 01:30:20,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715643048609,14-05-2024 01:30:48,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715643083386,14-05-2024 01:31:23,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715643134496,14-05-2024 01:32:14,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715643198690,14-05-2024 01:33:18,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715643227760,14-05-2024 01:33:47,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715643233603,14-05-2024 01:33:53,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,ROSSO si ritira. NERO vince la partita di Dama
+1715643234814,14-05-2024 01:33:54,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715643235473,14-05-2024 01:33:55,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,ROSSO si ritira. NERO vince la partita di Dama
+1715643236436,14-05-2024 01:33:56,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715643237187,14-05-2024 01:33:57,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,ROSSO si ritira. NERO vince la partita di Dama
+1715643241088,14-05-2024 01:34:01,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715643404363,14-05-2024 01:36:44,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,NERO non ha piu' pedine, Rosso ha vinto la partita di Dama
+1715644363564,14-05-2024 01:52:43,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715647087124,14-05-2024 02:38:07,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Scacchi cominciata
+1715647091726,14-05-2024 02:38:11,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,BIANCO si ritira. NERO vince la partita di Scacchi
+1715647170745,14-05-2024 02:39:30,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Scacchi cominciata
+1715647179182,14-05-2024 02:39:39,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,BIANCO si ritira. NERO vince la partita di Scacchi
+1715647195983,14-05-2024 02:39:55,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Scacchi cominciata
+1715647197966,14-05-2024 02:39:57,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,BIANCO si ritira. NERO vince la partita di Scacchi
+1715648541603,14-05-2024 03:02:21,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,ROSSO si ritira. NERO vince la partita di Dama
+1715648543489,14-05-2024 03:02:23,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715649031430,14-05-2024 03:10:31,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1715649136382,14-05-2024 03:12:16,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Scacchi cominciata
+1715649197769,14-05-2024 03:13:17,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1717030761773,30-05-2024 02:59:21,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1717032674138,30-05-2024 03:31:14,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,NERO si ritira. ROSSO vince la partita di Dama
+1717032674907,30-05-2024 03:31:14,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1717032679710,30-05-2024 03:31:19,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Scacchi cominciata
+1717032708606,30-05-2024 03:31:48,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,BIANCO si ritira. NERO vince la partita di Scacchi
+1717106359234,30-05-2024 23:59:19,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Scacchi cominciata
+1717107686484,31-05-2024 00:21:26,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1717107815652,31-05-2024 00:23:35,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,ROSSO non ha piu' pedine.  NERO vince la partita di Dama
+1717107832141,31-05-2024 00:23:52,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1717107833787,31-05-2024 00:23:53,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,ROSSO si ritira. NERO vince la partita di Dama
+1717107835643,31-05-2024 00:23:55,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Dama cominciata
+1717107839740,31-05-2024 00:23:59,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,NERO si ritira. ROSSO vince la partita di Dama
+1717107901092,31-05-2024 00:25:01,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,Partita a Scacchi cominciata
+1717108170260,31-05-2024 00:29:30,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,BIANCO si ritira. NERO vince la partita di Scacchi
+1717108173867,31-05-2024 00:29:33,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,BIANCO si ritira. NERO vince la partita di Scacchi
+1717108180796,31-05-2024 00:29:40,LAPTOP-B6BG59IT,Windows 10 10.0,rubyf,NERO si ritira. BIANCO vince la partita di Scacchi
