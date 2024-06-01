@@ -1,0 +1,15 @@
+Êþº¾   A 6	      =com/mycompany/dama_rigo_scacchi_rigo/Dama_Rigo_Scacchi_Rigo$1 this$0 =Lcom/mycompany/dama_rigo_scacchi_rigo/Dama_Rigo_Scacchi_Rigo;
+  	 
+   javax/swing/JPanel <init> ()V
+     paintComponent (Ljava/awt/Graphics;)V  java/awt/Color
+     (IIII)V
+      java/awt/Graphics setColor (Ljava/awt/Color;)V
+     getWidth ()I
+  ! "  	getHeight
+  $ %  fillRect @(Lcom/mycompany/dama_rigo_scacchi_rigo/Dama_Rigo_Scacchi_Rigo;)V Code LineNumberTable LocalVariableTable this ?Lcom/mycompany/dama_rigo_scacchi_rigo/Dama_Rigo_Scacchi_Rigo$1; MethodParameters g Ljava/awt/Graphics; 
+SourceFile Dama_Rigo_Scacchi_Rigo.java EnclosingMethod 3 ;com/mycompany/dama_rigo_scacchi_rigo/Dama_Rigo_Scacchi_Rigo NestHost InnerClasses                &  '   >     
+*+µ *· ±    (       - )       
+ * +     
+    ,     €     '   g     '*+· 
++» Y – €· ¶ +*¶ *¶  ¶ #±    (       0  1  2 & 3 )       ' * +     ' - .   /    0 1    2 	 4    2 5   
+        
